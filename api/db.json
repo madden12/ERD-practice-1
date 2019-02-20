@@ -1,0 +1,70 @@
+{
+    "employees": [
+        {
+        "id": 1,
+        "name": "Megan Madden",
+        "departmentId": 2,
+        "computerId": 1
+    },
+    {
+        "id": 2,
+        "name": "David Bird",
+        "departmentId": 2,
+        "computerId": 2
+    },
+    {
+        "id": 3,
+        "name": "Kalea Nelson",
+        "departmentId": 1,
+        "computerId": 3
+    },
+    {
+        "id": 4,
+        "name": "Lisa Stone",
+        "departmentId": 3,
+        "computerId": 4
+    },
+    {
+        "id": 5,
+        "name": "Kim Preece",
+        "departmentId": 2,
+        "computerId": 5
+    }
+    ],
+    "departments": [
+        {
+            "id": 1,
+            "departmentName": "Administrative"
+        },
+        {
+            "id": 2,
+            "departmentName": "IT"
+        },
+        {
+            "id": 3,
+            "departmentName": "Customer Service"
+        }
+    ],
+    "computers": [
+        {
+            "id": 1,
+            "computerName": "MacBook #1"
+        },
+        {
+            "id": 2,
+            "computerName": "MacBook #2"
+        },
+        {
+            "id": 3,
+            "computerName": "Surface Pro #1"
+        },
+        {
+            "id": 4,
+            "computerName": "Dell Laptop #1"
+        },
+        {
+            "id": 5,
+            "computerName": "Macbook #3"
+        }
+    ]
+}
